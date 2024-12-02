@@ -72,8 +72,12 @@ assign borrow=(abar & b) | (b & cin) |(cin & abar);
 endmodule
 
 ```
-/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
-*/
+/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. 
+
+Developed by: Mitran R
+
+RegisterNumber: 24006381
+
 
 **RTL Schematic**
 
